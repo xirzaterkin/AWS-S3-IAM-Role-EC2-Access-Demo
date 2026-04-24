@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # AWS S3 + IAM Role + EC2 Access Demo
 
 📌 Overview  
@@ -171,4 +169,3 @@ CloudWatch metrics
 ---
 
 Built a secure AWS architecture where a private S3 bucket is accessed by EC2 using IAM Role, verified access control behavior, and monitored system activity via CloudWatch.
-```
