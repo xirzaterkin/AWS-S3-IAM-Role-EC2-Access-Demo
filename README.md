@@ -140,25 +140,33 @@ Add logging and monitoring enhancements
 📸 Screenshots  
 
 IAM user and group  
-image  
+<img width="1911" height="808" alt="dce2e80ce172860be4b7c20695702f40" src="https://github.com/user-attachments/assets/1c4512f4-810c-4bec-bd4e-2085436bfac7" />
+<img width="1892" height="811" alt="de8c9c705c607ef7e36b2ea1783c826f" src="https://github.com/user-attachments/assets/f52fea74-a955-4146-bc08-cac6c6378d09" />
+
 
 S3 Block Public Access settings  
-image  
+<img width="1920" height="797" alt="8c2949e3b1a392c6f6a0509ee0117636" src="https://github.com/user-attachments/assets/77ca9365-9576-49cc-a3f7-0741192da7c6" />
+
 
 AccessDenied (URL)  
-image  
+<img width="1624" height="628" alt="4ab17a19b2969b9e742dead481a329d1" src="https://github.com/user-attachments/assets/1b3bffd0-7821-4c97-950a-72b663645bbc" />
+
 
 IAM Role configuration  
-image  
+<img width="1920" height="802" alt="7361de641d6edba684ef8e4777fdbde7" src="https://github.com/user-attachments/assets/4c98612b-4c6f-49ce-857a-0df93bc1b137" />
+
 
 EC2 attach role  
-image  
+<img width="1904" height="536" alt="9961923fbc531b032bf1c0f26bde9ef8" src="https://github.com/user-attachments/assets/ddf72545-8bbf-4dfd-aefb-b4cc90ec4598" />
+
 
 EC2 download from S3 (CLI)  
-image  
+<img width="1589" height="561" alt="6df3f7385c6232c26e15f1f8ad893ab6" src="https://github.com/user-attachments/assets/2f3a51e3-9851-44b6-8ee8-a511a31f11ac" />
+
 
 CloudWatch metrics  
-image  
+<img width="1920" height="835" alt="423e1323b029d6158c1b5f0929d1485e" src="https://github.com/user-attachments/assets/5f52035c-f674-45af-b7c9-2038589842e5" />
+
 
 ---
 
